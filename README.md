@@ -13,4 +13,4 @@ NPM Packages include:<br>
 `path`<br>
 
 # How-To
-Users will follow an upcoming Heroku link to use the application.
+Users will follow the Heroku link to use the application.
